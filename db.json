@@ -1,0 +1,24 @@
+{
+	"persons": [
+		{
+			"name": "Neymar",
+			"phone": "034-1234567",
+			"street": "Calle Frotend",
+			"city": "Barcelona",
+			"id": "3d599650-3436-11eb-8b800ba54c431"
+		},
+		{
+			"name": "Messi",
+			"phone": "044-123456",
+			"street": "Avenida Fullstack",
+			"city": "Mataro",
+			"id": "3d599470-3436-11eb-8b800ba54c431"
+		},
+		{
+			"name": "Ronaldo",
+			"street": "Pasaje Testing",
+			"city": "Ibitza",
+			"id": "3d599471-3436-11eb-8b800ba54c431"
+		}
+	]
+}
