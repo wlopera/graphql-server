@@ -1,4 +1,10 @@
-![Diagrama del Proyecto](doc/Aspose.Words.bc120c72-8041-45d1-bcd9-8287d9c12249.001.png)
+# PROYECTO GRAPHQL-SERVER
+
+## El servidor Graphql es agnóstico al lenguaje o plataforma que lo requiere
+
+### Vamos a crear un servidores graphql.
+* Crear carpeta ..\GraphQL\graphql-server
+* Crear proyecto ..\GraphQL\graphql-server>npm init -y
 
 ## Documentación
 
