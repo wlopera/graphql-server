@@ -21,4 +21,4 @@
 
 Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
 
-<a href="https://github.com/wlopera/graphql-server/blob/a5958563519f24ec54f550bb6dcd048276c15cee/doc/graphql-server.pdf" target="_blank">Ver el PDF del proyecto</a>
+<a href="https://github.com/wlopera/react-graphql/blob/f86be9e95f64f0562186affa8c91e648c802291b/src/doc/react-graphql.pdf" target="_blank">Ver el PDF del proyecto</a>
